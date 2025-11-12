@@ -2,6 +2,14 @@
 
 Welcome to the **Movies Recommender Web-App**! 🚀 This documentation provides a complete overview of a movie recommendation system designed to suggest movies based on your preferences. It leverages machine learning and movie data to provide personalized recommendations using a web application interface.
 
+
+## 🎥 Demo
+
+Here’s a quick look at the system in action 👇
+
+![Demo](movies.gif)
+
+
 ## Dataset Overview 🌟
 
 The system uses two key datasets for movie information:
